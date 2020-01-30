@@ -6,7 +6,7 @@
   "homepage": "https://github.com/quilljs/delta",
   "main": "dist/Delta.js",
   "dependencies": {
-    "deep-equal": "^1.0.1",
+    "fast-deep-equal": "^3.1.1",
     "extend": "^3.0.2",
     "fast-diff": "1.2.0"
   },

@@ -1,4 +1,4 @@
-import equal from 'deep-equal';
+import equal from 'fast-deep-equal';
 import extend from 'extend';
 import diff from 'fast-diff';
 import AttributeMap from './AttributeMap';
